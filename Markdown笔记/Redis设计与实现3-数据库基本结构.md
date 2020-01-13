@@ -1,5 +1,5 @@
 ---
-Rtitle: Redis设计与实现3-数据库结构
+Rtitle: Redis设计与实现3-数据库基本结构
 category:
   - 数据库
 tags:
