@@ -3,11 +3,11 @@
 
 整个项目分为三部分：
 
-​	:red_circle:Part1：《Redis设计与实现》读书笔记
+​	:red_circle:**Part1：《Redis设计与实现》读书笔记**
 
-​	:red_circle:Part2：Redis基础知识思维导图
+​	**:red_circle:Part2：Redis基础知识思维导图**
 
-​	:red_circle:Part3：Redis常见面试题汇总
+​	**:red_circle:Part3：Redis常见面试题汇总**
 
 # Part1:《Redis设计与实现》读书笔记
 
@@ -48,3 +48,11 @@
 :cloud_with_rain:[P12.Lua脚本](https://github.com/JiangRRRen/Redis-study/blob/master/Markdown笔记/Redis设计与实现12-Lua脚本.md)
 
 # Part2：思维导图
+
+![](https://github.com/JiangRRRen/Redis-study/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/Pic/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E5%AF%B9%E8%B1%A1.png?raw=true)
+
+![](https://github.com/JiangRRRen/Redis-study/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/Pic/%E5%8D%95%E6%9C%BA%E6%95%B0%E6%8D%AE%E5%BA%93.png?raw=true)
+
+![](https://github.com/JiangRRRen/Redis-study/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/Pic/%E5%A4%9A%E6%9C%BA%E6%95%B0%E6%8D%AE%E5%BA%93.png?raw=true)
+
+![](https://github.com/JiangRRRen/Redis-study/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/Pic/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD%E7%9A%84%E5%AE%9E%E7%8E%B0.png?raw=true)
