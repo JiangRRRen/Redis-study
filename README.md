@@ -1,4 +1,7 @@
+![](https://pic3.zhimg.com/v2-a2906feb856f3b0c746178aa965fe25c_1200x500.jpg)
+
 # Redis-study
+
 基于《Redis设计与实现》的内容，对Redis的基础知识进行总结。
 
 整个项目分为三部分：
