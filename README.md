@@ -59,3 +59,11 @@
 ![](https://github.com/JiangRRRen/Redis-study/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/Pic/%E5%A4%9A%E6%9C%BA%E6%95%B0%E6%8D%AE%E5%BA%93.png?raw=true)
 
 ![](https://github.com/JiangRRRen/Redis-study/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/Pic/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD%E7%9A%84%E5%AE%9E%E7%8E%B0.png?raw=true)
+
+# Part3: 面试常见问题
+
+分为两部分：Redis原理相关和Redis应用相关，主要从网上搜集整理而来，并做了许多原创性的改编。
+
+:hourglass_flowing_sand: ​[面试常问的原理性问题](https://github.com/JiangRRRen/Redis-study/blob/master/面试相关/Redis面试常见基本问题.md)
+
+:hourglass_flowing_sand: [Redis的简单应用场景](https://github.com/JiangRRRen/Redis-study/blob/master/面试相关/Redis的简单应用场景总结.md)
